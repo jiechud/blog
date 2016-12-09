@@ -1,0 +1,107 @@
+*{
+	margin: 0px;padding: 0px
+}
+
+body{
+	background-color: #ebebeb;
+}
+/**
+ * 导航
+ */
+.nav{
+	background-color:#ffffff; 
+}
+
+.nav .menuactive{
+	border-bottom: red 2px solid;
+}
+
+/**
+ * 登陆
+ */
+
+.login{
+	padding: 8% 0px 25% 0px;
+	background-color:#ffffff;
+}
+.login .loginbtn{
+	width: 49%;
+
+}
+
+.login .loginregbtn{
+	width:49%;
+}
+
+.reg{
+	padding: 8% 0px 15% 0px;
+	background-color:#ffffff;
+}
+.reg .regbtn{
+	width: 100%;
+}
+
+
+/**
+主题部分
+ */
+
+.article{}
+
+.article .left{
+}
+.article .left .list{
+	
+	background-color: #ffffff;
+	margin-bottom: 20px;
+}
+
+.article .left .caption{
+	padding: 5px 40px 15px 40px;
+}
+
+.caption .auth{
+	font-size: 13px; 
+	color:#959595
+}
+
+.caption .auth .authname{
+	margin-right:10px
+}
+
+.caption .auth .authval{
+	color:red
+}
+
+.caption .content{
+	color: #444443;
+	font-size: 14px
+}
+
+.caption .read{
+	padding-top: 5px
+}
+
+.caption .tag{
+	float:left;
+	color:#959595
+}
+.caption .rednum{
+	float: right;
+	color:#959595
+}
+
+
+
+
+
+
+
+
+/**
+ *底部
+ */
+
+footer{
+	
+}
